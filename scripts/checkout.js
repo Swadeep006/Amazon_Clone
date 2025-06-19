@@ -1,6 +1,7 @@
 import { cart } from "../data/cart.js";
 import { products } from "../data/products.js";
 //added new lines of code
+//added new lines of code on 19/06/2025
 
 let cartSummaryHTML = "";
 cart.forEach((cartItem) => {
